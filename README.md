@@ -34,6 +34,5 @@
 
 
 ---
-
-*"Testing is not just finding bugs, it’s preventing them."*
+**Testing shows the presence of defects, not their absence**
 
